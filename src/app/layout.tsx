@@ -12,11 +12,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Pocket',
-    default: 'Pocket - Invest at the perfect time.',
+    template: '%s - Neofit',
+    default: 'Neofit - Your progress, made simple.',
   },
   description:
-    'By leveraging insights from our network of industry insiders, you’ll know exactly when to buy to maximize profit, and exactly when to sell to avoid painful losses.',
+      'Track your meals, log workouts, and get personalized feedback — all in one app. Neofit helps you stay consistent, hit your goals, and actually understand your progress.',
 }
 
 export default function RootLayout({
