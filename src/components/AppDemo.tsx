@@ -175,6 +175,6 @@ export function AppDemo() {
       : ((activeValue - previousValue) / previousValue) * 100
 
   return (
-    <Image src={Math.random() < 0.5 ? iphone : iphone2}/>
+    <Image alt="mockup" src={Math.random() < 0.5 ? iphone : iphone2}/>
   )
 }
