@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["V5HPCT3VA7.com.neofit-tauri.app"],
+        "components": [
+          {
+            "/": "/open/*",
+            "comment": "Handles deep links under /open/"
+          }
+        ]
+      }
+    ]
+  }
+}
+
