@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["V5HPCT3VA7.com.neofit-tauri.app"],
+        "appIDs": ["B4Y48LYW8B.com.neofit-tauri.app"],
         "components": [
           {
             "/": "/open/*",
